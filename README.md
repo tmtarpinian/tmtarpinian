@@ -1,3 +1,5 @@
+![Image of Detroit Skyline](https://www.torchgroup.com/wp-content/uploads/2019/05/detroit-skyline.jpg)
+
 ### Hi there 👋
 I'm Trevor. I'm a software engineer that focuses on Ruby on Rails, React.js, and Postgres, although I'm having fun learning node.js, MangdoDB, and Vue on the side. I currently work as a technical coach for Flatiron school's Software Engineering program, answering programming questions from software engineering students, ranging in nature from Ruby and Javascript, to Sinatra, Rails, and React.js.
 
@@ -12,7 +14,7 @@ These repos commonly include the word "lab" in them.
 - 🔭 I’m currently working on digitizing Crum's Coptic Dictionary with a Ruby on Rails backend and React.js UI. I've just begun, and chipping away slowly at night in my free time 🙂. Also working on improving my test-writing in Rspec, Jest, and Capybara.
 - 🌱 I’m currently learning about Postman, Puppeteer, MangdoDB, Node.js, and Vue
 - 👯 I’m looking to collaborate on an RoR and React.js project
-- 🤔 I’m looking for help looking for a new opportunity in a software engineering role.
+- 🤔 I’m looking for help finding a new opportunity in a software engineering role.
 - 📫 How to reach me: tmtarpinian at gmail dot com
 
 <!--
