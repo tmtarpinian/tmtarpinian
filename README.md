@@ -28,7 +28,7 @@ These repos commonly include the word "lab" in them.
   <a href="https://www.tmtarpinian.com/blog/">
   <img
     alt="blog"
-    src="https://img.shields.io/static/v1?&message=Blog&color=brightgreen&style=for-the-badge"
+    src="https://https://img.shields.io/badge/-Blog-brightgreen?style=for-the-badge"
   />
 </a>
 <a href="https://twitter.com/tmtarpinian">
