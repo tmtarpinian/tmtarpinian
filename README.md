@@ -18,12 +18,7 @@ These repos commonly include the word "lab" in them.
 - ⚡  Fun fact: I'm proficient at making coffee using the following brew methods: french press, Chemex, paper drip, percolator, espresso machine (with porta-filter!), percolator, turkish. Currently learning how to use a syphon.
 - 📫  How to reach me: tmtarpinian at gmail dot com
 
-<a href="https://twitter.com/tmtarpinian">
-  <img
-    alt="Twitter"
-    src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"
-  />
-</a>
+
 <a href="https://www.linkedin.com/in/tmtarpinian">
   <img
     alt="Linkedin"
@@ -33,10 +28,15 @@ These repos commonly include the word "lab" in them.
   <a href="https://www.tmtarpinian.com/blog/">
   <img
     alt="blog"
-    src="https://img.shields.io/badge/Portfolio-A42E2B?logo=&logoColor=white&style=for-the-badge"
+    src="https://img.shields.io/static/v1?&message=Blog&color=brightgreen&style=for-the-badge"
   />
 </a>
-</p>
+<a href="https://twitter.com/tmtarpinian">
+  <img
+    alt="Twitter"
+    src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"
+  />
+</a>
 
 <!--
 **tmtarpinian/tmtarpinian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
