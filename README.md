@@ -1,18 +1,11 @@
 ![Imgur](https://i.imgur.com/uCdcLVg.jpg)
 
 ### Hi there 👋
-I'm Trevor, a software engineer that focuses on Ruby on Rails, Javascript, Vue, React.js, and Postgres, although I'm having fun learning node.js, Express, and MongoDB, and Angular on the side. I currently work as a Jr Software Engineer at Vesta, and moonlight as a Software Engineer technical coach for the Flatiron School, answering programming questions from software engineering students, ranging in nature from Ruby and Javascript, to Sinatra, Rails, and React.js.
+I'm Trevor, a software engineer that focuses on Ruby on Rails, Javascript, Vue, React.js, and Postgres, although I'm having fun learning node.js, Express, and MongoDB, and Angular on the side. I currently work as a Jr Software Engineer at Vesta, and moonlight as a Software Engineer technical coach for the Flatiron School, coaching software engineering students in Ruby, Javascript, Sinatra, Rails, and React.js.
 
-I use pair programming to help students debug labs and work through dependency issues. I also help improve Readmes and Rspec tests in the Learn-co software engineering curriculum, through pull requests on Github.
-
-These can be identified in my commits prefixed with `learn-co-students/`
-
-Additionally, the bulk of repos with single commits are the result of working one-on-one with students, either to demonstrate how to fork a lab's repo from the Learn-co curriculum or provide me historical reference to gemfile or package.json for solving dependency issues.
-
-These repos commonly include the word "lab" in them.
-
-- 🔭  I’m working on digitizing Crum's Coptic Dictionary with a Ruby on Rails backend and React.js UI. I've just begun, and chipping away slowly at night in my free time 🙂. Also working on improving my test-writing in Rspec, Jest, and Capybara.
+- 🔭  I’m working on a few diffent projects on the side that involve cataloging data from ancient manuscripts (usually using postres and a Rails API and then writing the UI with either Vue.js or React.js).
 - 🌱  Currently learning about Postman, Puppeteer, MongoDB, Node.js, and Express
+- 📖  Currently studying for the AWS practitioner and developer certifications.
 - 🤔  Looking for advice on how to utilize optical character recognition software.
 - ⚡  Fun fact: I'm proficient at making coffee using the following brew methods: french press, Chemex, paper drip, percolator, espresso machine (with porta-filter!), percolator, turkish. Currently learning how to use a syphon.
 - 📫  How to reach me: tmtarpinian at gmail dot com
