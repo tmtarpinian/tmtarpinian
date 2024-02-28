@@ -1,10 +1,9 @@
 ![Imgur](https://i.imgur.com/uCdcLVg.jpg)
 
 ### Hi there 👋
-I'm Trevor, a software engineer that focuses on Ruby on Rails, Javascript, Vue, React.js, and Postgres, although I'm having fun learning node.js, Express, and MongoDB, and Angular on the side. I'm currently a Software Engineer at Vesta.
+I'm Trevor, a software engineer, currently at CerteDrive, and work primarily in Ruby on Rails, React.js, and MYSQL/Postgres.
 
-- 🔭  I’m working on a few diffent projects on the side that involve cataloging data from ancient manuscripts (usually using postres and a Rails API and then writing the UI with either Vue.js or React.js).
-- 🌱  Currently learning about Postman, Puppeteer, MongoDB, Node.js, and Express
+- 🔭  Currently learning Python and Flask.
 - 📖  Currently studying for the AWS practitioner and developer certifications.
 - 🤔  Looking for advice on how to utilize optical character recognition software.
 - ⚡  Fun fact: I'm proficient at making coffee using the following brew methods: french press, Chemex, paper drip, percolator, espresso machine (with porta-filter!), percolator, turkish. Currently learning how to use a syphon.
